@@ -1,4 +1,4 @@
-# Optimism 残酷共学第一期
+# Optimism 第一期
 
 ## 介绍
 
@@ -25,7 +25,7 @@ Optimism, DAO, Layer2, Governance
 
 - 姓名：Marcus
 - GitHub ID：MRzzz-cyber
-- Telegram：@marcuszheng
+- Telegram：marcuszheng
 - Email：zqsanjingshou@gmail.com
 
 ## 发起组织
