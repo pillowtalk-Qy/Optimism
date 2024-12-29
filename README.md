@@ -52,7 +52,7 @@ Telegram：https://t.me/LXDAO/18240
 
 ## 学习资料/课程安排
 
-### 第一周：学习 Optimism 的基本概念，包括 Layer2 扩容方案，Opimism Rollups, Stage 阶段
+### 第一周：学习 Optimism 的基本概念，包括 Layer2 扩容方案，Opimism Rollups, Tokenomics, Stage 阶段
 
 Layer2 扩容方案: https://docs.optimism.io/stack/rollup/overview
 
