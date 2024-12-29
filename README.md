@@ -31,7 +31,7 @@ Optimism, DAO, Layer2, Governance
 ## 发起组织
 
   [LXDAO](https://lxdao.io/) 
-  ![image](https://github.com/user-attachments/assets/688da195-23c9-4291-9da6-2b063211593c)
+<img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/bafkreiay6vxsvv3ksxr75lzzt3iqy3zja3o2epuxh47ivs24p2xs3awexm.png" />
   
   [OP 中文力量](https://x.com/optimismzh)![image](https://github.com/user-attachments/assets/1fc98ff5-2860-4301-bd8d-996d91c31699)
   
