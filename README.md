@@ -109,6 +109,10 @@ OP 中文力量将出资 100 OP 给到学习者，根据学习笔记进行评分
 1. 希望通过 Optimism 残酷共学，激发起大家对于 Optimism 乃至整个 Layer2 生态系统的学习热情，21 天可以养成一个好习惯
 2. 特别提示：鼓励全英文 Notes，先学习、熟悉英文原文术语体系更好
 
+如果你学习完成，对 Optimism 治理体系有了解的话，欢迎将你的 OP Delegate 给我们, 我们将代表您参与治理
+LXDAO: https://vote.optimism.io/delegates/lxdao.eth
+OP 中文力量：https://vote.optimism.io/delegates/optimismcn.eth
+
 ## 报名和打卡规则
 
 因为残酷共学的报名和打卡是基于 GitHub 进行开展的，如果你是非开发者或者对 git 操作不熟悉，请先阅读此文档：[残酷共学 GitHub 新手教程](https://www.notion.so/lxdao/GitHub-53fca5ba49bb40c69e4e40e69f58f416)
