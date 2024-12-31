@@ -138,7 +138,7 @@ OP 中文力量：https://vote.optimism.io/delegates/optimismcn.eth
     ```
     - 日期格式为 `### 2024.07.11`，请不要随意更改
 
-## {本期残酷共学名字}打卡记录表
+## 残酷共学打卡记录表
 
 ✅ = Done ⭕️ = Missed ❌ = Failed
 
