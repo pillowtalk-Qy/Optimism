@@ -2,7 +2,7 @@
 
 ## 介绍
 
-本次 Optimism 残酷共学由 LXDAO，OP 中文力量，ETHPanda, BanklessDAOCN 共同发起，将系统的学习 Optimism 基本理念，包括 Layer2 基础概念，治理机制，社区和超级链生态等等，希望通过此学习，你能了解 Optimism 以及 Layer2 生态，能快速跟上 Optimism 的发展进程、养成自学与共学的定期学习习惯
+本次 Optimism 残酷共学由 LXDAO，OP 中文力量，ETHPanda, BanklessCN 共同发起，将系统的学习 Optimism 基本理念，包括 Layer2 基础概念，治理机制，社区和超级链生态等等，希望通过此学习，你能了解 Optimism 以及 Layer2 生态，能快速跟上 Optimism 的发展进程、养成自学与共学的定期学习习惯
 
 ## 关键词
 
