@@ -12,7 +12,7 @@ timezone: Asia/Shanghai # 中国标准时间 (UTC+8)
 # Ye
 
 1. 自我介绍
-     - 清华-南加大 Communication Data Science 25'硕士在读，链上数据分析2年经验，Dune [@wyeeeh](https://dune.com/wyeeeh)，Optimism NumbaNerds 分析师，Optimism RetroPGF Round 3 & Round 6 入选头部贡献者。
+     - 清华-南加大 Communication Data Science 25'硕士在读，链上数据分析2年经验，Dune [@wyeeeh](https://dune.com/wyeeeh)，X [@wyeeeeh](https://x.com/wyeeeh)，Optimism NumbaNERDs 分析师，入选Optimism RetroPGF Round 3 & Round 6 头部贡献者。
 
 2. 你认为你会完成本次残酷学习吗？
    - 有激励就有野心，之前完成过Sixdegree Lab和BuidlerDAO发起的Dune Analytics共学计划，以及DeFiHackLabs发起的Solidity残酷共学计划。
