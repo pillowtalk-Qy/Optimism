@@ -51,7 +51,7 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
-# {你的名字}
+# {Marcus}
 
 1. 自我介绍
 我是 Marcus，LXDAO，OP 中文力量成员，我想通过这场学习，更系统的了解 Optimism 以及 Layer2 生态
