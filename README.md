@@ -30,15 +30,14 @@ Optimism, DAO, Layer2, Governance
 
 ## 发起组织
 
-  [LXDAO](https://lxdao.io/) 
+[LXDAO](https://lxdao.io/) 
 <img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/bafkreiay6vxsvv3ksxr75lzzt3iqy3zja3o2epuxh47ivs24p2xs3awexm.png" />
-  
-  [OP 中文力量](https://x.com/optimismzh)![image](https://github.com/user-attachments/assets/1fc98ff5-2860-4301-bd8d-996d91c31699)
-  
-  [ETHPanda](https://ethpanda.org/) ![image](https://github.com/user-attachments/assets/6665f961-6cbb-49d1-a09e-d101396eea0b)
-  
-  [BanklessDAOCN](https://0xbanklesscn.substack.com/) ![image](https://github.com/user-attachments/assets/e8e93b3d-f2ac-46ac-a844-992582871b29)
-
+[OP 中文力量](https://x.com/optimismzh) 
+<img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/bafkreiay6vxsvv3ksxr75lzzt3iqy3zja3o2epuxh47ivs24p2xs3awexm.png" />
+[ETHPanda](https://ethpanda.org/) 
+<img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/45d1c60e-92f6-4247-9d4a-6299cecdae73.png" />
+[BanklessDAOCN](https://0xbanklesscn.substack.com/) 
+<img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/79379614-a82a-4d41-93ca-9e050b3d3a5c.png" />
 
 
 
