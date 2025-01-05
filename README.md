@@ -166,7 +166,10 @@ OP 中文力量：https://vote.optimism.io/delegates/optimismcn.eth
 | bxmyzzbc | | | | | | | | | | | | | | | | | | | | | |
 | Zhangdajiang | | | | | | | | | | | | | | | | | | | | | |
 | Alexliwenhao | | | | | | | | | | | | | | | | | | | | | |
+| stualan | | | | | | | | | | | | | | | | | | | | | |
+| CHENFANGC | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
