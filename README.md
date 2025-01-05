@@ -168,7 +168,9 @@ OP 中文力量：https://vote.optimism.io/delegates/optimismcn.eth
 | Alexliwenhao | | | | | | | | | | | | | | | | | | | | | |
 | stualan | | | | | | | | | | | | | | | | | | | | | |
 | CHENFANGC | | | | | | | | | | | | | | | | | | | | | |
+| zhengjunhe | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
