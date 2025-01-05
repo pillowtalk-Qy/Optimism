@@ -182,7 +182,9 @@ OP 中文力量：https://vote.optimism.io/delegates/optimismcn.eth
 | yiwen4 | | | | | | | | | | | | | | | | | | | | | |
 | chenziyu-bxy | | | | | | | | | | | | | | | | | | | | | |
 | LunaWang5209 | | | | | | | | | | | | | | | | | | | | | |
+| partypill | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
