@@ -177,7 +177,9 @@ OP 中文力量：https://vote.optimism.io/delegates/optimismcn.eth
 | wuyanhui | | | | | | | | | | | | | | | | | | | | | |
 | btcnice | | | | | | | | | | | | | | | | | | | | | |
 | amandakelake | | | | | | | | | | | | | | | | | | | | | |
+| chendafu2573 | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
