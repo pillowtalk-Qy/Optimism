@@ -180,7 +180,9 @@ OP 中文力量：https://vote.optimism.io/delegates/optimismcn.eth
 | chendafu2573 | | | | | | | | | | | | | | | | | | | | | |
 | CJC824 | | | | | | | | | | | | | | | | | | | | | |
 | yiwen4 | | | | | | | | | | | | | | | | | | | | | |
+| chenziyu-bxy | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
