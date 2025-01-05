@@ -169,7 +169,10 @@ OP 中文力量：https://vote.optimism.io/delegates/optimismcn.eth
 | stualan | | | | | | | | | | | | | | | | | | | | | |
 | CHENFANGC | | | | | | | | | | | | | | | | | | | | | |
 | zhengjunhe | | | | | | | | | | | | | | | | | | | | | |
+| goudanxiaokui | | | | | | | | | | | | | | | | | | | | | |
+| 8280998 | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
