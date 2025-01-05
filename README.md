@@ -184,7 +184,11 @@ OP 中文力量：https://vote.optimism.io/delegates/optimismcn.eth
 | LunaWang5209 | | | | | | | | | | | | | | | | | | | | | |
 | partypill | | | | | | | | | | | | | | | | | | | | | |
 | jiubate888 | | | | | | | | | | | | | | | | | | | | | |
+| Coooder-Crypto | | | | | | | | | | | | | | | | | | | | | |
+| yoow4536 | | | | | | | | | | | | | | | | | | | | | |
+| Marcus-Chen98 | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
