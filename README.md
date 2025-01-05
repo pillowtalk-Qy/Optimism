@@ -171,7 +171,10 @@ OP 中文力量：https://vote.optimism.io/delegates/optimismcn.eth
 | zhengjunhe | | | | | | | | | | | | | | | | | | | | | |
 | goudanxiaokui | | | | | | | | | | | | | | | | | | | | | |
 | 8280998 | | | | | | | | | | | | | | | | | | | | | |
+| snaildarter | | | | | | | | | | | | | | | | | | | | | |
+| William-02-02 | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
