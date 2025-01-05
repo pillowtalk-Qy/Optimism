@@ -174,7 +174,9 @@ OP 中文力量：https://vote.optimism.io/delegates/optimismcn.eth
 | snaildarter | | | | | | | | | | | | | | | | | | | | | |
 | William-02-02 | | | | | | | | | | | | | | | | | | | | | |
 | pillowtalk-Qy | | | | | | | | | | | | | | | | | | | | | |
+| wuyanhui | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
