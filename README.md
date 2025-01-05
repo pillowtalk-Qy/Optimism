@@ -181,7 +181,9 @@ OP 中文力量：https://vote.optimism.io/delegates/optimismcn.eth
 | CJC824 | | | | | | | | | | | | | | | | | | | | | |
 | yiwen4 | | | | | | | | | | | | | | | | | | | | | |
 | chenziyu-bxy | | | | | | | | | | | | | | | | | | | | | |
+| LunaWang5209 | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
