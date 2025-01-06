@@ -157,7 +157,7 @@ OP 中文力量：https://vote.optimism.io/delegates/optimismcn.eth
 | luffythink |   | | | | | | | | | | | | | | | | | | | | |
 | iossocket |   | | | | | | | | | | | | | | | | | | | | |
 | cherry-yl-sh |   | | | | | | | | | | | | | | | | | | | | |
-| Dfbb7879 |   | | | | | | | | | | | | | | | | | | | | |
+| Dfbb7879 | ✅ | | | | | | | | | | | | | | | | | | | | |
 | DasNarrenschiff |   | | | | | | | | | | | | | | | | | | | | |
 | ChinesePaladin61 |   | | | | | | | | | | | | | | | | | | | | |
 | sonedigo |   | | | | | | | | | | | | | | | | | | | | |
@@ -188,6 +188,7 @@ OP 中文力量：https://vote.optimism.io/delegates/optimismcn.eth
 | yoow4536 |   | | | | | | | | | | | | | | | | | | | | |
 | Marcus-Chen98 |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
