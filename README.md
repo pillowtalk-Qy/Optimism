@@ -176,7 +176,7 @@ OP 中文力量：https://vote.optimism.io/delegates/optimismcn.eth
 | pillowtalk-Qy |   | | | | | | | | | | | | | | | | | | | | |
 | wuyanhui |   | | | | | | | | | | | | | | | | | | | | |
 | btcnice |   | | | | | | | | | | | | | | | | | | | | |
-| amandakelake |   | | | | | | | | | | | | | | | | | | | | |
+| amandakelake | ✅ | | | | | | | | | | | | | | | | | | | | |
 | chendafu2573 |   | | | | | | | | | | | | | | | | | | | | |
 | CJC824 |   | | | | | | | | | | | | | | | | | | | | |
 | yiwen4 |   | | | | | | | | | | | | | | | | | | | | |
@@ -188,6 +188,7 @@ OP 中文力量：https://vote.optimism.io/delegates/optimismcn.eth
 | yoow4536 |   | | | | | | | | | | | | | | | | | | | | |
 | Marcus-Chen98 |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
