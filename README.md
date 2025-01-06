@@ -173,7 +173,7 @@ OP 中文力量：https://vote.optimism.io/delegates/optimismcn.eth
 | 8280998 |   | | | | | | | | | | | | | | | | | | | | |
 | snaildarter |   | | | | | | | | | | | | | | | | | | | | |
 | William-02-02 |   | | | | | | | | | | | | | | | | | | | | |
-| pillowtalk-Qy |   | | | | | | | | | | | | | | | | | | | | |
+| pillowtalk-Qy | ✅ | | | | | | | | | | | | | | | | | | | | |
 | wuyanhui |   | | | | | | | | | | | | | | | | | | | | |
 | btcnice |   | | | | | | | | | | | | | | | | | | | | |
 | amandakelake | ✅ | | | | | | | | | | | | | | | | | | | | |
@@ -188,6 +188,7 @@ OP 中文力量：https://vote.optimism.io/delegates/optimismcn.eth
 | yoow4536 |   | | | | | | | | | | | | | | | | | | | | |
 | Marcus-Chen98 |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
