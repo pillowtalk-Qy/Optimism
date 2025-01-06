@@ -60,7 +60,7 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 <!-- Content_START -->
 
-### 2025.01.6
+### 2025.01.06
 学习Layer2 扩容方案: https://docs.optimism.io/stack/rollup/overview
 
 1.传统的“多链”架构方法存在两个基本问题：
@@ -83,6 +83,6 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 注：有时候，有效远比正确更重要。
 
 
-### 2025.01.06
+### 2025.01.07
 
 <!-- Content_END -->
